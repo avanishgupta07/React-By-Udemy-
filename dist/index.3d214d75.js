@@ -2957,10 +2957,10 @@ var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _client = require("react-dom/client");
 var _clientDefault = parcelHelpers.interopDefault(_client);
-// // react.create is use before jsx but now in jsx automatically converterd into the ..............
+// react.create is use before jsx but now in jsx automatically converterd into the ..............
 // const heading = React.createElement(
 //     "h1",
-//     {
+//     {    use as object ...
 //         id: "title 1",
 //         key: "h2",
 //     },
@@ -2982,7 +2982,7 @@ const Title = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
         columnNumber: 5
     }, undefined);
 _c = Title;
-// same as below givne is witjout retrun all matter about the parethresis ...
+// same as below given is without return all matter about the parethesis ...
 // const Headercomponents21=()=>{
 //     return
 // (
@@ -2998,7 +2998,7 @@ const Header = ()=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Title, {}, void 0, false, {
                 fileName: "index.js",
-                lineNumber: 37,
+                lineNumber: 36,
                 columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -3009,45 +3009,45 @@ const Header = ()=>{
                             children: "Home"
                         }, void 0, false, {
                             fileName: "index.js",
-                            lineNumber: 40,
+                            lineNumber: 39,
                             columnNumber: 21
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
                             children: "About"
                         }, void 0, false, {
                             fileName: "index.js",
-                            lineNumber: 41,
+                            lineNumber: 40,
                             columnNumber: 21
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
                             children: "Contact"
                         }, void 0, false, {
                             fileName: "index.js",
-                            lineNumber: 42,
+                            lineNumber: 41,
                             columnNumber: 21
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
                             children: "Cart"
                         }, void 0, false, {
                             fileName: "index.js",
-                            lineNumber: 43,
+                            lineNumber: 42,
                             columnNumber: 21
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "index.js",
-                    lineNumber: 39,
+                    lineNumber: 38,
                     columnNumber: 17
                 }, undefined)
             }, void 0, false, {
                 fileName: "index.js",
-                lineNumber: 38,
+                lineNumber: 37,
                 columnNumber: 13
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "index.js",
-        lineNumber: 36,
+        lineNumber: 35,
         columnNumber: 9
     }, undefined);
 };
@@ -3612,7 +3612,7 @@ const RestraunCard = (props)=>{
                 src: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/" + (props.restaurant.info?.cloudinaryImageId || "")
             }, void 0, false, {
                 fileName: "index.js",
-                lineNumber: 744,
+                lineNumber: 743,
                 columnNumber: 17
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
@@ -3622,21 +3622,21 @@ const RestraunCard = (props)=>{
                 ]
             }, void 0, true, {
                 fileName: "index.js",
-                lineNumber: 745,
+                lineNumber: 744,
                 columnNumber: 17
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
                 children: props.restaurant.info?.cuisines.join(" , ")
             }, void 0, false, {
                 fileName: "index.js",
-                lineNumber: 746,
+                lineNumber: 745,
                 columnNumber: 17
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
                 children: props.restaurant.info?.costForTwo
             }, void 0, false, {
                 fileName: "index.js",
-                lineNumber: 747,
+                lineNumber: 746,
                 columnNumber: 17
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
@@ -3646,13 +3646,13 @@ const RestraunCard = (props)=>{
                 ]
             }, void 0, true, {
                 fileName: "index.js",
-                lineNumber: 748,
+                lineNumber: 747,
                 columnNumber: 17
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "index.js",
-        lineNumber: 743,
+        lineNumber: 742,
         columnNumber: 13
     }, undefined);
 };
@@ -3677,12 +3677,12 @@ const Body = ()=>{
                 restaurant: restaurant
             }, restaurant.info.id, false, {
                 fileName: "index.js",
-                lineNumber: 774,
+                lineNumber: 773,
                 columnNumber: 21
             }, undefined))
     }, void 0, false, {
         fileName: "index.js",
-        lineNumber: 771,
+        lineNumber: 770,
         columnNumber: 9
     }, undefined);
 };
@@ -3692,7 +3692,7 @@ const Footer = ()=>{
         children: "Footer"
     }, void 0, false, {
         fileName: "index.js",
-        lineNumber: 794,
+        lineNumber: 793,
         columnNumber: 12
     }, undefined);
 };
@@ -3702,23 +3702,23 @@ const AppLayout = ()=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Header, {}, void 0, false, {
                 fileName: "index.js",
-                lineNumber: 800,
+                lineNumber: 799,
                 columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Body, {}, void 0, false, {
                 fileName: "index.js",
-                lineNumber: 801,
+                lineNumber: 800,
                 columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Footer, {}, void 0, false, {
                 fileName: "index.js",
-                lineNumber: 802,
+                lineNumber: 801,
                 columnNumber: 13
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "index.js",
-        lineNumber: 799,
+        lineNumber: 798,
         columnNumber: 9
     }, undefined);
 };
@@ -3726,7 +3726,7 @@ _c5 = AppLayout;
 const root = (0, _clientDefault.default).createRoot(document.getElementById("root"));
 root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(AppLayout, {}, void 0, false, {
     fileName: "index.js",
-    lineNumber: 809,
+    lineNumber: 808,
     columnNumber: 13
 }, undefined));
 var _c, _c1, _c2, _c3, _c4, _c5;
