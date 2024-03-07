@@ -3,8 +3,10 @@ import { restrautList } from "../components/contants";
 import RestraunCard from "./ResturantCard";
 
 const Body = () => {
-    let searchTxt="KFC"  ;
-    const[serchText]=useState();
+    //let searchTxt="KFC"  ;
+    // search Text is a local variables.
+    const[searchInput,setSearchInput]=useState("KFC");// To create State Variables
+
     return (
         <>
             <div classname="search-container">
@@ -12,9 +14,9 @@ const Body = () => {
                     type ="text"
                     classname="search-input"
                     placeholder="Search"
-                    value= {searchTxt}
+                    value= {searchInput}
                     onChange={(e)=>{
-                        searchTxt=e.target.value;
+                        setSearchInput(e.target.value);
                     }}
                 />
                 <button className="search-btn">Search</button>

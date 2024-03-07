@@ -27468,6 +27468,7 @@ $RefreshReg$(_c1, "Header");
 }
 },{"react/jsx-dev-runtime":"iTorj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"hf55X":[function(require,module,exports) {
 //  export const IMG_CON_URL="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/";
+// json Data from sWiggy Website 
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "restrautList", ()=>restrautList);
@@ -28060,29 +28061,47 @@ try {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
+var _react = require("react");
 var _contants = require("../components/contants");
 var _resturantCard = require("./ResturantCard");
 var _resturantCardDefault = parcelHelpers.interopDefault(_resturantCard);
+var _s = $RefreshSig$();
 const Body = ()=>{
+    _s();
+    //let searchTxt="KFC"  ;
+    // search Text is a local variables.
+    const [searchInput, setSearchInput] = (0, _react.useState)("KFC"); // To create State Variables
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxDevRuntime.Fragment), {
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                classname: "search-container",
                 children: [
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("imput", {}, void 0, false, {
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
+                        type: "text",
+                        classname: "search-input",
+                        placeholder: "Search",
+                        value: searchInput,
+                        onChange: (e)=>{
+                            setSearchInput(e.target.value);
+                        }
+                    }, void 0, false, {
                         fileName: "src/components/Body.js",
-                        lineNumber: 8,
-                        columnNumber: 13
+                        lineNumber: 14,
+                        columnNumber: 17
                     }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {}, void 0, false, {
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                        className: "search-btn",
+                        children: "Search"
+                    }, void 0, false, {
                         fileName: "src/components/Body.js",
-                        lineNumber: 11,
-                        columnNumber: 13
+                        lineNumber: 23,
+                        columnNumber: 17
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/components/Body.js",
-                lineNumber: 7,
-                columnNumber: 9
+                lineNumber: 13,
+                columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "listname",
@@ -28090,17 +28109,18 @@ const Body = ()=>{
                         restaurant: restaurant
                     }, restaurant.info.id, false, {
                         fileName: "src/components/Body.js",
-                        lineNumber: 18,
-                        columnNumber: 21
+                        lineNumber: 30,
+                        columnNumber: 25
                     }, undefined))
             }, void 0, false, {
                 fileName: "src/components/Body.js",
-                lineNumber: 15,
-                columnNumber: 9
+                lineNumber: 27,
+                columnNumber: 13
             }, undefined)
         ]
     }, void 0, true);
 };
+_s(Body, "hd7kMVZ9rn4Byp3Gp8IpknoREoQ=");
 _c = Body;
 exports.default = Body;
 var _c;
@@ -28111,7 +28131,7 @@ $RefreshReg$(_c, "Body");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","../components/contants":"hf55X","./ResturantCard":"7LKZL","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"7LKZL":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","../components/contants":"hf55X","./ResturantCard":"7LKZL","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react":"21dqq"}],"7LKZL":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$195a = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
