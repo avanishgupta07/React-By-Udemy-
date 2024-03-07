@@ -2965,35 +2965,22 @@ var _footer = require("./Footer");
 var _footerDefault = parcelHelpers.interopDefault(_footer);
 var _contants = require("../components/contants");
 var _contantsDefault = parcelHelpers.interopDefault(_contants);
-// const RestraunCard = (props) => {
-//     console.log(props);
-//     return (
-//         <div className="card">
-//             <img src={"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/"
-//                 + props.restaurant.info?.cloudinaryImageId} />
-//             <h2> {props.restaurant.info?.name}</h2>
-//             <h3>{props.restaurant.info?.cuisines.join(" , ")}</h3>
-//             <h4>{props.restaurant.info?.costForTwo}</h4>
-//             <h4>{props.restaurant.info?.avgRating} Star</h4>
-//         </div>
-//     )
-// }
 const AppLayout = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxDevRuntime.Fragment), {
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _headerDefault.default), {}, void 0, false, {
                 fileName: "src/components/index.js",
-                lineNumber: 29,
+                lineNumber: 10,
                 columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _bodyDefault.default), {}, void 0, false, {
                 fileName: "src/components/index.js",
-                lineNumber: 30,
+                lineNumber: 11,
                 columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _footerDefault.default), {}, void 0, false, {
                 fileName: "src/components/index.js",
-                lineNumber: 31,
+                lineNumber: 12,
                 columnNumber: 13
             }, undefined)
         ]
@@ -3003,7 +2990,7 @@ _c = AppLayout;
 const root = (0, _clientDefault.default).createRoot(document.getElementById("root"));
 root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(AppLayout, {}, void 0, false, {
     fileName: "src/components/index.js",
-    lineNumber: 36,
+    lineNumber: 17,
     columnNumber: 13
 }, undefined));
 var _c;
@@ -28086,7 +28073,7 @@ const Body = ()=>{
                         }
                     }, void 0, false, {
                         fileName: "src/components/Body.js",
-                        lineNumber: 14,
+                        lineNumber: 13,
                         columnNumber: 17
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -28094,13 +28081,13 @@ const Body = ()=>{
                         children: "Search"
                     }, void 0, false, {
                         fileName: "src/components/Body.js",
-                        lineNumber: 23,
+                        lineNumber: 22,
                         columnNumber: 17
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/components/Body.js",
-                lineNumber: 13,
+                lineNumber: 12,
                 columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28109,12 +28096,12 @@ const Body = ()=>{
                         restaurant: restaurant
                     }, restaurant.info.id, false, {
                         fileName: "src/components/Body.js",
-                        lineNumber: 30,
+                        lineNumber: 29,
                         columnNumber: 25
                     }, undefined))
             }, void 0, false, {
                 fileName: "src/components/Body.js",
-                lineNumber: 27,
+                lineNumber: 26,
                 columnNumber: 13
             }, undefined)
         ]
@@ -28211,3 +28198,4 @@ $RefreshReg$(_c, "RestraunCard");
 },{"react/jsx-dev-runtime":"iTorj","../components/contants":"hf55X","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}]},["dyKap","1xC6H","6nkmk"], "6nkmk", "parcelRequire9621")
 
 //# sourceMappingURL=index.2f6687e1.js.map
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

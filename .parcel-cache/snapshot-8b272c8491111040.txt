@@ -16,9 +16,6 @@
 101C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\caniuse-lite\data\features\css-gencontent.js133538369522745321 0
 93C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@swc\helpers\esm\_define_property.js133538369520330704 0
 79C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\resolve-from\readme.md133538369461748114 0
-99C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@swc\helpers\src\_wrap_async_generator.mjs133538369540670183 0
-105C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c133538369510014817 0
-100C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\caniuse-lite\data\features\css-variables.js133538369527768338 0
 82C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\fs\lib\browser.js133538369501620545 0
 107C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\csso\node_modules\css-tree\cjs\tokenizer\utils.cjs133538369524798601 0
 88C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\semver\ranges\to-comparators.js133538369495235956 0
@@ -38,7 +35,7 @@
 74C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\.bin\browserslist133538369572266552 0
 81C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\domhandler\lib\node.d.ts133538369466186640 0
 113C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@swc\helpers\esm\_create_for_of_iterator_helper_loose.js133538369519503790 0
-70C:\Users\Avanish Gupta\Desktop\Namast-React\dist\index.2f6687e1.js.map133541955309623344 0
+70C:\Users\Avanish Gupta\Desktop\Namast-React\dist\index.2f6687e1.js.map133542984714154662 0
 107C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select133538369479433819 1
 102C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\css-tree\lib\syntax\config\parser-selector.js133538369526727837 0
 47C:\Users\Avanish Gupta\Desktop\Namast-React\src133541938401935046 1
@@ -57,7 +54,7 @@
 66C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\is-number133538369461435414 1
 95C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\caniuse-lite\dist\unpacker\browsers.js133538369504129711 0
 100C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\caniuse-lite\data\features\web-animation.js133538369556656080 0
-48C:\Users\Avanish Gupta\Desktop\Namast-React\dist133541955309633355 1
+48C:\Users\Avanish Gupta\Desktop\Namast-React\dist133542984714174741 1
 120C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeXMLNS.js133538369500352439 0
 88C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\weak-lru-cache\rollup.config.js133538369463642876 0
 115C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\tokenizer133538369517656640 1
@@ -110,7 +107,7 @@
 65C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\htmlnano133538369513888692 1
 90C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\caniuse-lite\data\features\ogv.js133538369548284440 0
 112C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\import.cjs133538369518233936 0
-66C:\Users\Avanish Gupta\Desktop\Namast-React\src\components\Body.js133541955308630496 0
+66C:\Users\Avanish Gupta\Desktop\Namast-React\src\components\Body.js133542984503964094 0
 86C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\semver\functions\satisfies.js133538369491400430 0
 74C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\csso\dist\csso.js133538369502146665 0
 126C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\procedure.d.ts133538369483729814 0
@@ -138,11 +135,11 @@
 101C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\transformer-html\lib\dependencies.js133538369496479562 0
 75C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\get-port\readme.md133538369497793025 0
 74C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\term-size\license133538369464479810 0
-70C:\Users\Avanish Gupta\Desktop\Namast-React\src\components\contants.js133541949597559569 0
+70C:\Users\Avanish Gupta\Desktop\Namast-React\src\components\contants.js133542186365509759 0
 88C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\type-fest\source\utilities.d.ts133538369487162570 0
 95C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\source-map\lib\source-map-generator.js133538369467580611 0
 108C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\caniuse-lite\data\features\css-placeholder-shown.js133538369525568517 0
-68C:\Users\Avanish Gupta\Desktop\Namast-React\src\components\Footer.js133541940422578068 0
+68C:\Users\Avanish Gupta\Desktop\Namast-React\src\components\Footer.js133542984710743970 0
 88C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\caniuse-lite\data\regions\GL.js133538369536760717 0
 116C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\csso\node_modules\css-tree\cjs\syntax\node\SelectorList.cjs133538369523501780 0
 109C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\csso\node_modules\css-tree\lib\parser\SyntaxError.js133538369533573057 0
@@ -174,7 +171,7 @@
 77C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\nullthrows\README.md133538369480902891 0
 67C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\color-name133538369461564948 1
 90C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\graph\src\ContentGraph.js133538369494180143 0
-67C:\Users\Avanish Gupta\Desktop\Namast-React\src\components\index.js133541940503658383 0
+67C:\Users\Avanish Gupta\Desktop\Namast-React\src\components\index.js133542984710875433 0
 75C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\.package-lock.json133538396664608775 0
 89C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\postcss-value-parser\lib\walk.js133538369464326256 0
 91C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\electron-to-chromium\versions.json133538369469554972 0
@@ -1024,6 +1021,7 @@
 93C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\caniuse-lite\data\features\webusb.js133538369557166128 0
 84C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\semver\functions\compare.js133538369469882387 0
 85C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\nth-check\lib\esm\parse.d.ts133538369478770441 0
+86C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\workers\src\Worker.js133538369503632858 0
 75C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\tslib\tslib.es6.js133538369462355864 0
 76C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\tslib\tslib.es6.mjs133538369466749900 0
 127C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeStyleElement.js133538369497944040 0
@@ -1513,12 +1511,12 @@
 89C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\htmlnano\lib\modules\example.mjs133538369506152599 0
 91C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\caniuse-lite\data\features\ruby.js133538369552183901 0
 82C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\semver\functions\parse.js133538369486781177 0
+88C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\htmlnano\lib\modules\custom.cjs133538369467487433 0
+82C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\semver\functions\patch.js133538369487265676 0
+89C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\lines-and-columns\build\index.js133538369460472762 0
 111C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\caniuse-lite\data\features\css-file-selector-button.js133538369521621328 0
 79C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\mdn-data\css\readme.md133538369482597806 0
 76C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\lmdb\src\cursor.cpp133538369515287328 0
-88C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\htmlnano\lib\modules\custom.cjs133538369467487433 0
-89C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\lines-and-columns\build\index.js133538369460472762 0
-82C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\semver\functions\patch.js133538369487265676 0
 87C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\semver\functions\prerelease.js133538369488009019 0
 95C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@swc\helpers\esm\_apply_decs_2203_r.js133538369513723247 0
 78C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\msgpackr\benchmark.md133538369499181801 0
@@ -1955,8 +1953,8 @@
 133C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\build-test.js133538369511208879 0
 128C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\index.js133538369511529582 0
 126C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeDoctype.js133538369492192977 0
-124C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages133538369572266552 0
 95C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\css-tree\lib\generator\token-before.js133538369528181050 0
+124C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages133538369572266552 0
 103C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\electron-to-chromium\full-chromium-versions.js133538369462749357 0
 119C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\data\index.js133538369499587457 0
 137C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd133538369572298235 0
@@ -2272,6 +2270,8 @@
 100C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\caniuse-lite\data\features\online-status.js133538369548464903 0
 99C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\caniuse-lite\data\features\rel-noopener.js133538369551692570 0
 106C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.h133538369520602221 0
+105C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c133538369510014817 0
+100C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\caniuse-lite\data\features\css-variables.js133538369527768338 0
 104C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@swc\helpers\_\_class_private_field_destructure133538369526534090 1
 84C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\css-tree\lib\utils\clone.js133538369520602221 0
 106C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133538369513410533 0
@@ -2706,7 +2706,7 @@
 84C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\.bin\update-browserslist-db133538369572298235 0
 101C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\csso\node_modules\css-tree\cjs\syntax\config133538369525166517 1
 100C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\electron-to-chromium\chromium-versions.json133538369466445356 0
-59C:\Users\Avanish Gupta\Desktop\Namast-React\dist\index.html133541954564203633 0
+59C:\Users\Avanish Gupta\Desktop\Namast-React\dist\index.html133542633130933435 0
 113C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\runtime-react-refresh\lib\ReactRefreshRuntime.js133538369489554038 0
 88C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\caniuse-lite\data\regions\BH.js133538369500967098 0
 94C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\electron-to-chromium\full-versions.js133538369464938398 0
@@ -4653,6 +4653,7 @@
 88C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@swc\helpers\src\_ts_values.mjs133538369540439663 0
 108C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@swc\helpers\src\_unsupported_iterable_to_array.mjs133538369540534949 0
 84C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@swc\helpers\src\_using.mjs133538369540640184 0
+99C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@swc\helpers\src\_wrap_async_generator.mjs133538369540670183 0
 95C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@swc\helpers\src\_write_only_error.mjs133538369540735557 0
 96C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\utils\src\relativeBundlePath.js133538369518448212 0
 89C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@swc\helpers\scripts\ast_grep.js133538369524430212 0
@@ -4811,7 +4812,6 @@
 88C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\workers\src\cpuCount.js133538369493569710 0
 84C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\workers\src\process133538369499999262 1
 85C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\workers\src\types.js133538369502311544 0
-86C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\workers\src\Worker.js133538369503632858 0
 90C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\workers\src\WorkerFarm.js133538369504323346 0
 100C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\workers\src\threads\ThreadsChild.js133538369501552088 0
 101C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\@parcel\workers\src\threads\ThreadsWorker.js133538369501904859 0
@@ -5983,7 +5983,7 @@
 70C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\.bin\svgo.ps1133538369572293166 0
 88C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\.bin\update-browserslist-db.cmd133538369572298235 0
 88C:\Users\Avanish Gupta\Desktop\Namast-React\node_modules\.bin\update-browserslist-db.ps1133538369572298235 0
+67C:\Users\Avanish Gupta\Desktop\Namast-React\dist\index.3a01df49.css133542633129230781 0
+71C:\Users\Avanish Gupta\Desktop\Namast-React\dist\index.3a01df49.css.map133542633129290642 0
 70C:\Users\Avanish Gupta\Desktop\Namast-React\dist\index.975ef6c8.js.map133540920125474587 0
-67C:\Users\Avanish Gupta\Desktop\Namast-React\dist\index.3a01df49.css133541954563440540 0
-71C:\Users\Avanish Gupta\Desktop\Namast-React\dist\index.3a01df49.css.map133541954563494165 0
-66C:\Users\Avanish Gupta\Desktop\Namast-React\dist\index.2f6687e1.js133541955309563324 0
+66C:\Users\Avanish Gupta\Desktop\Namast-React\dist\index.2f6687e1.js133542984714048942 0
